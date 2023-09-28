@@ -1,8 +1,6 @@
 # DDM-conf-derivations
 
-Simulate perceptual decisions and confidence based on time varying evidence. This code was used for the manuscript [Expressions for Bayesian confidence of drift diffusion observers in dynamic stimuli tasks](https://www.biorxiv.org/content/10.1101/2020.02.25.965384v3.abstract). 
-
-To make the figures from the manuscript call the function `makePlotsForDerivationsPaper`.
+Run analyses and make plots from the manuscript [Expressions for Bayesian confidence of drift diffusion observers in dynamic stimuli tasks](https://www.biorxiv.org/content/10.1101/2020.02.25.965384v3.abstract). To make the figures from the manuscript call the function `makePlotsForDerivationsPaper`.
 
 Author: Joshua Calder-Travis, j.calder.travis@gmail.com
 

@@ -12,8 +12,8 @@ function pipeSimResults = makePlotsForDerivationsPaper(saveDir, varargin)
 % effect of pipeline time
 
 paths = {'./mat-comp-model-tools', ...
-    './simDecisionAndConf', ...
-    './DDM-conf-tools-shadow'};
+    './sim-decis-conf', ...
+    './DDM-conf-tools'};
 for thisPath = paths
     addpath(thisPath{1})
 end
